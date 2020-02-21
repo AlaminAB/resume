@@ -1,9 +1,9 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project:	    Matarial CV/Resume Template 
-Version:	    2.0
-Last change:	07/09/15 
-Primary use:	CV/Resume, Portfolio, Perosnal Website 
+Project:      Matarial CV/Resume Template 
+Version:      2.0
+Last change:  07/09/15 
+Primary use:  CV/Resume, Portfolio, Perosnal Website 
 -------------------------------------------------------------------*/
 /*
 |----------------------------------------------------------------------------
@@ -731,7 +731,7 @@ nav .button-collapse i {
   font-style: italic;
   font-size: 15px;
   line-height: 27px;
-  padding: 10px 60px;
+  padding: 10px 0px;
   margin: 10px 0;
   color: #8a8a8b;
 }
